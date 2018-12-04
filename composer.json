@@ -1,0 +1,10 @@
+{
+    "name": "admin/composer-lab-assets",
+    "authors": [
+        {
+            "name": "3A432079",
+            "email": "zoonelson01@gmail.com"
+        }
+    ],
+    "require": {}
+}
